@@ -1,0 +1,42 @@
+/* Небольшие правки поверх Bootstrap */
+
+body {
+  background-color: #f7f6f2;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.hero-block {
+  background: linear-gradient(120deg, #e8efe9, #f7f6f2);
+  border-radius: 0.5rem;
+}
+
+.product-thumb {
+  height: 180px;
+  object-fit: cover;
+  background: #dfe8e1;
+}
+
+.product-hero-img {
+  width: 100%;
+  min-height: 280px;
+  object-fit: cover;
+  background: #dfe8e1;
+  border-radius: 0.5rem;
+}
+
+.footer-shop {
+  background: #2f523c;
+}
+
+.footer-shop a {
+  color: #d7e8db;
+  text-decoration: none;
+}
+
+.footer-shop a:hover {
+  text-decoration: underline;
+}
