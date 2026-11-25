@@ -1,4 +1,4 @@
-# Лепесток — КР №2 (Bootstrap)
+﻿# Лепесток — КР №2 (Bootstrap)
 
 Учебный интернет-магазин цветов на Bootstrap 5.
 
@@ -17,6 +17,10 @@ GitHub Pages: https://vg676-main.github.io/kr2-bootstrap-shop/
 - `product.html` — товар (таблица)
 - `order.html` — форма заявки
 
+## Компоненты Bootstrap
+
+navbar, card, modal, accordion, alert, form, table, breadcrumb, buttons
+
 ## Технологии
 
 - Bootstrap 5.3 (CDN)
@@ -25,8 +29,3 @@ GitHub Pages: https://vg676-main.github.io/kr2-bootstrap-shop/
 ## Автор
 
 Груздев В. Е., ЭФБО-10-25
-
-## ���������� Bootstrap
-
-������������: navbar, card, modal, accordion, alert, form, table, breadcrumb.
-
