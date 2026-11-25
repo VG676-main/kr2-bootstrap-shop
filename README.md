@@ -25,3 +25,8 @@ GitHub Pages: https://vg676-main.github.io/kr2-bootstrap-shop/
 ## РђРІС‚РѕСЂ
 
 Р“СЂСѓР·РґРµРІ Р’. Р•., Р­Р¤Р‘Рћ-10-25
+
+## Компоненты Bootstrap
+
+Используются: navbar, card, modal, accordion, alert, form, table, breadcrumb.
+
